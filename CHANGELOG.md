@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-07)
+## Unreleased (2025-05-20)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`99f515d`](https://github.com/stdlib-js/stdlib/commit/99f515d651fe793e13b1df6ff95f39200fad0ff1) - **docs:** update parameter types _(by Athan Reines)_
 -   [`533df61`](https://github.com/stdlib-js/stdlib/commit/533df61c24c654e67a6d3dbf84b878ec0f8c9520) - **feat:** add `array/base/assert/any-has-own-property` _(by Athan Reines)_
 
 </details>
