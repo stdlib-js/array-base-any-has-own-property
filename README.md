@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import anyHasOwnProp from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-has-own-property@deno/mod.js';
+import anyHasOwnProp from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-has-own-property@v0.0.0-deno/mod.js';
 ```
 
 #### anyHasOwnProp( arr, property )
@@ -104,7 +104,7 @@ bool = anyHasOwnProp( [ o1, o2, o3 ], 'toString' );
 import fromCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-from-code-point@deno/mod.js';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
 import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@deno/mod.js';
-import anyHasOwnProp from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-has-own-property@deno/mod.js';
+import anyHasOwnProp from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-has-own-property@v0.0.0-deno/mod.js';
 
 function randomObject() {
     var o = {};
