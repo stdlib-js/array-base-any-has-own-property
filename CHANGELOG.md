@@ -4,13 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-20)
+## Unreleased (2025-05-21)
 
 <section class="features">
 
 ### Features
 
--   [`533df61`](https://github.com/stdlib-js/stdlib/commit/533df61c24c654e67a6d3dbf84b878ec0f8c9520) - add `array/base/assert/any-has-own-property`
+-   [`73cfffd`](https://github.com/stdlib-js/stdlib/commit/73cfffd015cbde73fed35b630512c71752bf4934) - add `array/base/any-has-own-property`
 
 </section>
 
@@ -22,8 +22,7 @@
 
 <details>
 
--   [`99f515d`](https://github.com/stdlib-js/stdlib/commit/99f515d651fe793e13b1df6ff95f39200fad0ff1) - **docs:** update parameter types _(by Athan Reines)_
--   [`533df61`](https://github.com/stdlib-js/stdlib/commit/533df61c24c654e67a6d3dbf84b878ec0f8c9520) - **feat:** add `array/base/assert/any-has-own-property` _(by Athan Reines)_
+-   [`73cfffd`](https://github.com/stdlib-js/stdlib/commit/73cfffd015cbde73fed35b630512c71752bf4934) - **feat:** add `array/base/any-has-own-property` _(by Athan Reines)_
 
 </details>
 

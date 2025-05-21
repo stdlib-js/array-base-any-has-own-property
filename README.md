@@ -50,7 +50,7 @@ limitations under the License.
 ## Installation
 
 ```bash
-npm install @stdlib/array-base-assert-any-has-own-property
+npm install @stdlib/array-base-any-has-own-property
 ```
 
 Alternatively,
@@ -70,7 +70,7 @@ To view installation and usage instructions specific to each branch build, be su
 ## Usage
 
 ```javascript
-var anyHasOwnProp = require( '@stdlib/array-base-assert-any-has-own-property' );
+var anyHasOwnProp = require( '@stdlib/array-base-any-has-own-property' );
 ```
 
 #### anyHasOwnProp( arr, property )
@@ -122,7 +122,7 @@ bool = anyHasOwnProp( [ o1, o2, o3 ], 'toString' );
 var fromCodePoint = require( '@stdlib/string-from-code-point' );
 var discreteUniform = require( '@stdlib/random-base-discrete-uniform' );
 var filledBy = require( '@stdlib/array-filled-by' );
-var anyHasOwnProp = require( '@stdlib/array-base-assert-any-has-own-property' );
+var anyHasOwnProp = require( '@stdlib/array-base-any-has-own-property' );
 
 function randomObject() {
     var o = {};
@@ -196,19 +196,19 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 <section class="links">
 
-[npm-image]: http://img.shields.io/npm/v/@stdlib/array-base-assert-any-has-own-property.svg
-[npm-url]: https://npmjs.org/package/@stdlib/array-base-assert-any-has-own-property
+[npm-image]: http://img.shields.io/npm/v/@stdlib/array-base-any-has-own-property.svg
+[npm-url]: https://npmjs.org/package/@stdlib/array-base-any-has-own-property
 
-[test-image]: https://github.com/stdlib-js/array-base-assert-any-has-own-property/actions/workflows/test.yml/badge.svg?branch=main
-[test-url]: https://github.com/stdlib-js/array-base-assert-any-has-own-property/actions/workflows/test.yml?query=branch:main
+[test-image]: https://github.com/stdlib-js/array-base-any-has-own-property/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/array-base-any-has-own-property/actions/workflows/test.yml?query=branch:main
 
-[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/array-base-assert-any-has-own-property/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/array-base-assert-any-has-own-property?branch=main
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/array-base-any-has-own-property/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/array-base-any-has-own-property?branch=main
 
 <!--
 
-[dependencies-image]: https://img.shields.io/david/stdlib-js/array-base-assert-any-has-own-property.svg
-[dependencies-url]: https://david-dm.org/stdlib-js/array-base-assert-any-has-own-property/main
+[dependencies-image]: https://img.shields.io/david/stdlib-js/array-base-any-has-own-property.svg
+[dependencies-url]: https://david-dm.org/stdlib-js/array-base-any-has-own-property/main
 
 -->
 
@@ -222,15 +222,15 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 
-[deno-url]: https://github.com/stdlib-js/array-base-assert-any-has-own-property/tree/deno
-[deno-readme]: https://github.com/stdlib-js/array-base-assert-any-has-own-property/blob/deno/README.md
-[umd-url]: https://github.com/stdlib-js/array-base-assert-any-has-own-property/tree/umd
-[umd-readme]: https://github.com/stdlib-js/array-base-assert-any-has-own-property/blob/umd/README.md
-[esm-url]: https://github.com/stdlib-js/array-base-assert-any-has-own-property/tree/esm
-[esm-readme]: https://github.com/stdlib-js/array-base-assert-any-has-own-property/blob/esm/README.md
-[branches-url]: https://github.com/stdlib-js/array-base-assert-any-has-own-property/blob/main/branches.md
+[deno-url]: https://github.com/stdlib-js/array-base-any-has-own-property/tree/deno
+[deno-readme]: https://github.com/stdlib-js/array-base-any-has-own-property/blob/deno/README.md
+[umd-url]: https://github.com/stdlib-js/array-base-any-has-own-property/tree/umd
+[umd-readme]: https://github.com/stdlib-js/array-base-any-has-own-property/blob/umd/README.md
+[esm-url]: https://github.com/stdlib-js/array-base-any-has-own-property/tree/esm
+[esm-readme]: https://github.com/stdlib-js/array-base-any-has-own-property/blob/esm/README.md
+[branches-url]: https://github.com/stdlib-js/array-base-any-has-own-property/blob/main/branches.md
 
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-base-assert-any-has-own-property/main/LICENSE
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-base-any-has-own-property/main/LICENSE
 
 </section>
 
